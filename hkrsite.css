@@ -1,0 +1,177 @@
+body {
+margin: 0;
+padding: 0;
+background-color: #00000f;
+line-height: 1.5;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+h1, h2, h3, h4, h5, h6, h7, h8 {
+color: #B5E853;
+line-height: 1.5;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+text-align: left;
+margin: 0 0 20px;
+}
+p {
+color: #FFFFFF;
+padding-left: 30px;
+padding-right: 30px;
+font-size: 15px;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+}
+.hr {
+border: 0;
+border-top: 2px dashed #ffd26a;
+}
+li {
+color: #00ff03;
+font-size: 15px;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+.button {
+text-decoration: none;
+text-align: left;
+background-color: #121212;
+color: white;
+border: 2px solid #ffd26a;
+border-radius: 15px;
+padding: 10px 14px;
+font-size: 14px;
+display: inline-block;
+padding-left: 10px;
+}
+.leftquote {
+border-left-style: dotted;
+border-left-width: 1px;
+border-left-color: gray;
+color: #8D8D8D;
+padding: 20px;
+}
+td {
+color: #FFFFFF;
+border-spacing: 20px;
+text-align: left;
+padding: 8px;
+}
+th {
+color: #FFFFFF;
+border-bottom: 1px dashed #B5E853;
+text-align: left;
+padding: 8px;
+}
+dl {
+color: #FFFFFF;
+text-align: left;
+padding: 5px;
+}
+dt {
+color: #FFFFFF;
+font-weight: bold;
+}
+.smallimg {
+background-attachment: fixed;
+background-position: left;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100px;
+height: 100px;
+}
+.largeimg {
+background-attachment: fixed;
+background-position: left;
+background-repeat: no-repeat;
+background-size: cover;
+max-width: 100%;
+max-height: 100%;
+display: block;
+}
+.horizontalscroll {
+background-color: ;
+font-style: italic;
+overflow: auto;
+white-space: nowrap;
+color: #FFFFFF;
+padding: 10px;
+}
+ul {list-style: circle;}
+ul li::before {content: " $ "; color: #00ff03;}
+ol {display: table; margin-left: 0; margin-right: auto; list-style-position: inside;}
+/*  font style  */
+.bold {font-weight: bold;}
+.ital {font-style: italic;}
+.oblique {font-style: oblique;}
+.overline {text-decoration: overline;}
+.strickthrough {text-decoration: line-through;}
+.underline {text-decoration: underline;}
+.keyword {color: #E867E8; background-color: #1A1A1A; padding: 2px 2px; }
+.linkk {color: #6CBDEC; text-decoration: underline;}
+.w3-black,.w3-hover-black:hover{color:#BAB9B9!important;background-color:#000!important}
+/* margin for button */
+.leftmar {margin-left: 30px;}
+/* font colour*/
+.gray {color: #8D8D8D;}
+.green {color: #B5E853;}
+/* padding */
+.topp {padding-top: 10px;}
+.left {padding-left: 30px}
+.righty {
+        padding-right: 30px;
+        text-align: right;
+}
+.mediumsize {font-size: 19px;}
+
+
+
+
+
+
+
+
+.heading-disclaimer {
+    color: red;
+font-size: 20px;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+}
+.mhr {
+    border: 0;
+    border-top: 1px dashed #ffd26a;
+}
+.orange {color: #ffc700;}
+.green {color: #B5E853;}
+.about {padding-left: 15px;}
+.centerr {text-align: center;}
+.hkr {
+color: #ff7e15;
+font-size: 15px;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+}
+h {
+    padding-right: 15px;
+}
+
+.disclaimer {
+    color: red;
+font-size: 10px;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+}
+
+.rightquote {
+border-right-style: dotted;
+border-right-width: 1px;
+border-right-color: gray;
+color: #8D8D8D;
+padding: 20px;
+}
+
+right {padding-right: 30px}
+
+.rightalyn {
+    text-align: right;
+    object-position: right;
+}
+
+
+
+
+
+/* Real bgcolor #1A1A1A */
